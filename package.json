@@ -1,0 +1,15 @@
+{
+  "name": "delicious_web_api",
+  "version": "1.0.0",
+  "description": "一个Node.js的RESTful API框架",
+  "main": "startup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web APi",
+    "Web API"
+  ],
+  "author": "khadron",
+  "license": "ISC"
+}
